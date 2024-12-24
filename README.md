@@ -15,7 +15,7 @@ Programming languages,Libraries and Frameworks:
 
 ### 💻 **Projects**
 
-- **Voice AI:** Intelligent voice controlled personal assistant capable of doing basic tasks on voice command such using python.
+- **Voice AI:** Intelligent voice controlled personal assistant capable of doing basic tasks on voice command using python.
   
 - **Hunger Eradication Program:** A platform to connect food donors and volunteers supporting SDG2.
 
