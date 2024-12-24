@@ -15,7 +15,9 @@ Programming languages,Libraries and Frameworks:
 
 ### 💻 **Projects**
 
-- **Hunger Eradication Program:** A platform to connect food donors and volunteers supporting SDG2.(currently working on it)
+- **Voice AI:** Intelligent voice controlled personal assistant capable of doing basic tasks on voice command such using python.
+-  
+- **Hunger Eradication Program:** A platform to connect food donors and volunteers supporting SDG2.
 
 - **Custom Data Analysis:** Projects involving fraud detection and financial transactions.
 
